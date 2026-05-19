@@ -48,6 +48,9 @@ plaintext
 
 ---
 
+
+---
+
 ## 🧠 Conceitos e Técnicas Aplicadas
 
 - Uso de semântica em HTML para organizar melhor o conteúdo e facilitar a leitura.
@@ -74,8 +77,15 @@ Para as próximas versões, temos planos de adicionar:
 🔹 Integração com meios de pagamento para facilitar na hora de comprar.
 🔹 Área administrativa para cadastrar, alterar ou remover produtos.
 🔹 Sistema de avaliação e comentários dos clientes sobre os produtos.
+
 ---
 
+## 📞 Contato
+
+Se precisar de mais informações, parcerias ou suporte, entre em contato:
+
+📧 E-mail: contato@adegasshelby.com.br
+📍 Localização: Sobral - Ceará
 🌐 Site: https://ms-prog-964.github.io/Adegas_Shelby/
 
 ---
